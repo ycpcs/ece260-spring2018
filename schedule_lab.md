@@ -8,9 +8,9 @@ The following schedule is subject to change.
 Additional content will be added as it becomes available throughout the semester.<br>
 
 
-**Week**       | **Lab**                                                                                                                               |  **Due**                                                                                                                   
-:--------------|:--------------------------------------------------------------------------------------------------------------------------------------|:--------------------------    
-Week of Jan 22 |                                                                                                                                       |  <!-- [Review and Introduction to C/C++](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWb2V3b1VOWVZwaHM/view?usp=sharing) -->                                           
+**Week**       | **Lab**                                                                |  **Due**                                                                                                                   
+:--------------|:-----------------------------------------------------------------------|:--------------------------    
+Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week from date assigned  <!-- [Review and Introduction to C/C++](labs/lab01.html) -->                                           
 Week of Jan 29 |                                                                                                                                       |  <!-- [Computer Architecture](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWY2FFXzNaR1FldVk/view?usp=sharing) -->
 Week of Feb 5  |                                                                                                                                       |  <!-- [Intro to MIPS Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWME9NTEw1SWJEUG8/view?usp=sharing) -->
 Week of Feb 12 |                                                                                                                                       |  <!-- [Branching and Conditional Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWNzd0M3NTX0VpU2M/view?usp=sharing) -->

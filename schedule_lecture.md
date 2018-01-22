@@ -8,7 +8,7 @@ The following schedule is subject to change.
 Additional content will be added as it becomes available throughout the semester.<br>
 
 
-**Date**       | **Topic**                                                                                                        |  **Reading**                      |  **Assignments**                                                           
+**Date**       | **Topic**                                                                                                        |  **Reading Assignments**          |  **Assignments**                                                           
 :--------------|:-----------------------------------------------------------------------------------------------------------------|:----------------------------------|:-----------------------------------------------------------------------    
 Tue, Jan 16    |  **NO CLASS**                                                                                                    |                                   |
 Thur, Jan 18   |  [Introduction](lectures/lecture1_introduction.pdf)                                                              |  § 1.1 - 1.4                      |
