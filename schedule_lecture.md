@@ -13,7 +13,7 @@ Additional content will be added as it becomes available throughout the semester
 Tue, Jan 16    |  **NO CLASS**                                                                                                    |                                   |
 Thur, Jan 18   |  [Introduction](lectures/lecture1_introduction.pdf)                                                              |  § 1.1 - 1.4                      |
 | | |
-Tue, Jan 23    |  [Technologies & Performance](lectures/lecture2_technologies_and_performance.pdf)                                |  § 1.5 - 1.11                     |  <!-- [Homework #1](homework/Homework_Assignment_1.txt) <br> Due Tue, Jan 31, 2017 -->
+Tue, Jan 23    |  [Technologies & Performance](lectures/lecture2_technologies_and_performance.pdf)                                |  § 1.5 - 1.11                     |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due Tue, Jan 30, 2017
 Thur, Jan 25   |  [Data Representation & 2's Complement](lectures/lecture3_data_representation_and_2s_complement.pdf)             |  § 2.4                            |
  | | |
 Tue, Jan 30    |  [Instruction Sets & Operands](lectures/lecture4_instructions_and_instruction_sets.pdf)                          |                                   |  <!-- § 2.1 - 2.3 --> <!-- [Homework #2](homework/Homework_Assignment_2.txt) <br> Due Tue, Feb 7, 2017 -->
