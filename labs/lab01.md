@@ -37,6 +37,7 @@ In a Cygwin window type the commands:
 
     cd h:
     cd ECE260
+    cd Lab01_Game_of_Life
     make submit
 
 Enter your Marmoset username and password (which you should have received by email.) 
