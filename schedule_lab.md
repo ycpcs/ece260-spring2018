@@ -10,18 +10,31 @@ Additional content will be added as it becomes available throughout the semester
 
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
-Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week from date assigned  <!-- [Review and Introduction to C/C++](labs/lab01.html) -->                                           
-Week of Jan 29 |  [Computer Architecture](labs/lab02.html)                              |  1 week from date assigned  <!-- [Computer Architecture](labs/lab02.html) -->
-Week of Feb 5  |                                                                                                                                       |  <!-- [Intro to MIPS Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWME9NTEw1SWJEUG8/view?usp=sharing) -->
-Week of Feb 12 |                                                                                                                                       |  <!-- [Branching and Conditional Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWNzd0M3NTX0VpU2M/view?usp=sharing) -->
-Week of Feb 19 |                                                                                                                                       |    
-Week of Feb 26 |  **NO LAB - Winter Break**                                                                                                            |
-Week of Mar 5  |                                                                                                                                       |  <!-- [MIPS Procedures](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWRmJFcWpJQndaVVE/view?usp=sharing) -->
-Week of Mar 12 |                                                                                                                                       |  <!-- Continue working on Lab #5 -->
-Week of Mar 19 |                                                                                                                                       |  <!-- [Introduction to Floating-Point Operations](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWU09zTXAwVktOQ1k/view?usp=sharing) -->
-Week of Mar 26 |                                                                                                                                       |  <!-- [More Fun with Floats](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWVHExb18xT0RMMUE/view?usp=sharing) -->
-Week of Apr 2  |                                                                                                                                       |  <!-- [Introduction to ARM Assembly](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWbEg1Ni1qQlJCejA/view?usp=sharing) -->
-Week of Apr 9  |                                                                                                                                       |  <!-- EXAM WEEK - no lab -->
-Week of Apr 16 |                                                                                                                                       |
-Week of Apr 23 |                                                                                                                                       |  <!-- [Loop and Function Optimization](https://drive.google.com/a/ycp.edu/file/d/0B36p-YmqpYFWdlFXekN2cTZFZWM/view?usp=sharing) -->
-Week of Apr 30 |                                                                                                                                       |
+Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week from date assigned
+Week of Jan 29 |  Lab cancelled on account of snow                                      |
+Week of Feb 5  |  [Computer Architecture](labs/lab02.html)                              |  1 week from date assigned
+Week of Feb 12 |                                                                        |
+Week of Feb 19 |                                                                        |    
+Week of Feb 26 |  **NO LAB - Winter Break**                                             |
+Week of Mar 5  |                                                                        |
+Week of Mar 12 |                                                                        |
+Week of Mar 19 |                                                                        |
+Week of Mar 26 |                                                                        |
+Week of Apr 2  |                                                                        |
+Week of Apr 9  |                                                                        |
+Week of Apr 16 |                                                                        |
+Week of Apr 23 |                                                                        |
+Week of Apr 30 |                                                                        |
+
+
+<!-- [Review and Introduction to C/C++](labs/lab01.html) -->
+<!-- [Computer Architecture](labs/lab02.html) -->
+<!-- [Intro to MIPS Assembly](labs/lab03.html) -->
+<!-- [Branching and Conditional Assembly](labs/lab04.html) -->
+<!-- [MIPS Procedures](labs/lab05.html) -->
+<!--   Continue working on Lab #5 -->
+<!-- [Introduction to Floating-Point Operations](labs/lab06.html) -->
+<!-- [More Fun with Floats](labs/lab07.html) -->
+<!-- [Introduction to ARM Assembly](labs/lab08.html) -->
+<!-- EXAM WEEK - no lab -->
+<!-- [Loop and Function Optimization](labs/lab09.html) -->
