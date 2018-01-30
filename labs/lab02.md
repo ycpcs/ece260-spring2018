@@ -14,7 +14,7 @@ From the Windows Start Menu, start a **Cygwin Shell** and run the following comm
     cd h:
     cd ECE260
     unzip Lab02_Computer_Architecture.zip
-    cd Lab01_Game_of_Life
+    cd Lab02_Computer_Architecture
 
 
 The folder contains a Microsoft Word document named **Lab02_Computer_Architecture.docx**
