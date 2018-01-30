@@ -16,7 +16,7 @@ Thur, Jan 18   |  [Introduction](lectures/lecture1_introduction.pdf)            
 Tue, Jan 23    |  [Technologies & Performance](lectures/lecture2_technologies_and_performance.pdf)                                |  Assign#2 § 1.5 - 1.11            |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due Tue, Jan 30, 2017
 Thur, Jan 25   |  [Data Representation & 2's Complement](lectures/lecture3_data_representation_and_2s_complement.pdf)             |  Assign#3 § 2.4                   |
  | | |
-Tue, Jan 30    |  [Instruction Sets & Operands](lectures/lecture4_instructions_and_instruction_sets.pdf)                          |  Assign#4 § 2.1 - 2.3             |  <!-- [Homework #2](homework/Homework_Assignment_2.txt) <br> Due Tue, Feb 7, 2017 -->
+Tue, Jan 30    |  [Instruction Sets & Operands](lectures/lecture4_instructions_and_instruction_sets.pdf)                          |  Assign#4 § 2.1 - 2.3             |  [Homework #2](homework/Homework_Assignment_2.txt) <br> Due Tue, Feb 6, 2017
 Thur, Feb 1    |  [MIPS Instruction Set](lectures/lecture5_MIPS_instruction_set.pdf)                                              |  Assign#5 § 2.5 - 2.6             |   
  | | |
 Tue, Feb 6     |  [MIPS Branching Instructions](lectures/lecture6_MIPS_Branching_Instructions.pdf)                                |  Assign#6 § 2.7                   |  <!-- [Homework #3](homework/Homework_Assignment_3.txt) <br> Due Tue, Feb 14, 2017 -->
