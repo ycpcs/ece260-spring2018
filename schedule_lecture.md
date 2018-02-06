@@ -23,10 +23,10 @@ Tue, Feb 6     |  [MIPS Instruction Set](lectures/lecture5_MIPS_instruction_set.
 Thur, Feb 8    |  [MIPS Branching Instructions](lectures/lecture6_MIPS_Branching_Instructions.pdf)                                |  Assign#6 § 2.7                   |  <!-- [Homework #3](homework/Homework_Assignment_3.txt) <br> Due Tue, Feb 14, 2017 -->  
  | | |
 Tue, Feb 13    |  [Supporting Procedures in Computer Hardware](lectures/lecture7_Supporting_Procedures_in_Computer_Hardware.pdf)  |  Assign#7 § 2.8                   | 
-Thur, Feb 15   |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |                                   |  <!-- § 2.8 --> <!-- [Homework #4](homework/Homework_Assignment_4.txt) <br> Due Tue, Feb 21, 2017 -->
+Thur, Feb 15   |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |                                   |  <!-- [Homework #4](homework/Homework_Assignment_4.txt) <br> Due Tue, Feb 21, 2017 -->
  | | |
-Tue, Feb 20    |  [Accessing and Addressing Memory](lectures/lecture9_Accessing_and_Addressing_Memory.pdf)                        |                                   |  <!-- § 2.9, § 2.10, § 2.13 -->
-Thur, Feb 22   |  [Translation of High-Level Languages](lectures/lecture10_Translation_of_High-Level_Languages.pdf)               |                                   |  <!-- § 2.12 --> 
+Tue, Feb 20    |  [Accessing and Addressing Memory](lectures/lecture9_Accessing_and_Addressing_Memory.pdf)                        |  Assign#8 § 2.9, § 2.10, § 2.13   |
+Thur, Feb 22   |  [Translation of High-Level Languages](lectures/lecture10_Translation_of_High-Level_Languages.pdf)               |  Assign#9 § 2.12                  | 
   | | |
 Tue, Feb 27    |  **NO CLASS - Winter Break**                                                                                     |                                   | <!-- Winter Break -->
 Thur, Mar 1    |  **NO CLASS - Winter Break**                                                                                     |                                   | <!-- Winter Break -->
