@@ -20,7 +20,7 @@ Tue, Jan 30    |  **NO CLASS - SNOW DAY ❄❄❄❄❄**                       
 Thur, Feb 1    |  [Instruction Sets & Operands](lectures/lecture4_instructions_and_instruction_sets.pdf)                          |  Assign#4 § 2.1 - 2.3             |  [Homework #2](homework/Homework_Assignment_2.txt) <br> Due Thur, Feb 8, 2017   
  | | |
 Tue, Feb 6     |  [MIPS Instruction Set](lectures/lecture5_MIPS_instruction_set.pdf)                                              |  Assign#5 § 2.5 - 2.6             |
-Thur, Feb 8    |  [MIPS Branching Instructions](lectures/lecture6_MIPS_Branching_Instructions.pdf)                                |  Assign#6 § 2.7                   |  <!-- [Homework #3](homework/Homework_Assignment_3.txt) <br> Due Tue, Feb 14, 2017 -->  
+Thur, Feb 8    |  [MIPS Branching Instructions](lectures/lecture6_MIPS_Branching_Instructions.pdf)                                |  Assign#6 § 2.7                   |  [Homework #3](homework/Homework_Assignment_3.txt) <br> Due Tue, Feb 15, 2017  
  | | |
 Tue, Feb 13    |  [Supporting Procedures in Computer Hardware](lectures/lecture7_Supporting_Procedures_in_Computer_Hardware.pdf)  |  Assign#7 § 2.8                   | 
 Thur, Feb 15   |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |                                   |  <!-- [Homework #4](homework/Homework_Assignment_4.txt) <br> Due Tue, Feb 21, 2017 -->
