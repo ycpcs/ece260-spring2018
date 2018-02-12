@@ -22,7 +22,7 @@ and multiple subfolders named **src**, **test**, and **util**.
 
 The **src** directory contains the (mostly empty) assembly files that you will use throughout this lab assignment.
 Do NOT delete any of the code that was distributed with the assignment.
-However, you CAN delete some of the unecessary comments if you like.
+However, you CAN delete some of the unnecessary comments if you like.
 
 The **test** directory contains a set of unit tests for each part of the lab assignment. 
 You should not change any of these files.
