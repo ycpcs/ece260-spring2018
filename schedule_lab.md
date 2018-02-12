@@ -13,7 +13,7 @@ Additional content will be added as it becomes available throughout the semester
 Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week from date assigned
 Week of Jan 29 |  Lab cancelled on account of snow                                      |
 Week of Feb 5  |  [Computer Architecture](labs/lab02.html)                              |  1 week from date assigned
-Week of Feb 12 |                                                                        |
+Week of Feb 12 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week from date assigned
 Week of Feb 19 |                                                                        |    
 Week of Feb 26 |  **NO LAB - Winter Break**                                             |
 Week of Mar 5  |                                                                        |
