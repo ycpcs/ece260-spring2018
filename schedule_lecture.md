@@ -25,7 +25,7 @@ Thur, Feb 8    |  **Delayed Opening** - Reviewed HW#2                           
 Tue, Feb 13    |  [MIPS Branching Instructions](lectures/lecture6_MIPS_Branching_Instructions.pdf)                                |  Assign#6 § 2.7                   |  [Homework #3](homework/Homework_Assignment_3.txt) <br> Due Tue, Feb 20, 2018 
 Thur, Feb 15   |  [Supporting Procedures in Computer Hardware](lectures/lecture7_Supporting_Procedures_in_Computer_Hardware.pdf)  |  Assign#7 § 2.8                   |
  | | |
-Tue, Feb 20    |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |                                   |  <!-- [Homework #4](homework/Homework_Assignment_4.txt) <br> Due Tue, Feb 21, 2017 -->
+Tue, Feb 20    |  [Supporting Nested Procedures](lectures/lecture8_Supporting_Nested_Procedures.pdf)                              |                                   |  [Homework #4](homework/Homework_Assignment_4.txt) <br> Due Tue, Mar 6, 2018
 Thur, Feb 22   |  [Accessing and Addressing Memory](lectures/lecture9_Accessing_and_Addressing_Memory.pdf)                        |  Assign#8 § 2.9, § 2.10, § 2.13   | 
   | | |
 Tue, Feb 27    |  **NO CLASS - Winter Break**                                                                                     |                                   | <!-- Winter Break -->
