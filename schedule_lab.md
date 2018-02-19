@@ -14,7 +14,7 @@ Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.h
 Week of Jan 29 |  Lab cancelled on account of snow                                      |
 Week of Feb 5  |  [Computer Architecture](labs/lab02.html)                              |  1 week from date assigned
 Week of Feb 12 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week from date assigned
-Week of Feb 19 |                                                                        |    
+Week of Feb 19 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  2 weeks from date assigned
 Week of Feb 26 |  **NO LAB - Winter Break**                                             |
 Week of Mar 5  |                                                                        |
 Week of Mar 12 |                                                                        |
