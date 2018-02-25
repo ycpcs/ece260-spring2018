@@ -23,3 +23,5 @@ This page contains links to useful resources.
   - [VMWare Player (free)](https://my.vmware.com/web/vmware/free#desktop_end_user_computing/vmware_workstation_player/12_0)
   
   - [PuTTY](https://the.earth.li/~sgtatham/putty/latest/w32/putty.exe)
+  
+  - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
