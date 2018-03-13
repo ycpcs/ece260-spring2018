@@ -10,20 +10,20 @@ Additional content will be added as it becomes available throughout the semester
 
 **Week**       | **Lab**                                                                |  **Due**                                                                                                                   
 :--------------|:-----------------------------------------------------------------------|:--------------------------    
-Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week from date assigned
+Week of Jan 22 |  [Review and Introduction to C/C++ (Game of Life)](labs/lab01.html)    |  1 week from date assigned  <!-- lab 1 -->
 Week of Jan 29 |  Lab cancelled on account of snow                                      |
-Week of Feb 5  |  [Computer Architecture](labs/lab02.html)                              |  1 week from date assigned
-Week of Feb 12 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week from date assigned
-Week of Feb 19 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  2 weeks from date assigned
+Week of Feb 5  |  [Computer Architecture](labs/lab02.html)                              |  1 week from date assigned  <!-- lab 2 -->
+Week of Feb 12 |  [Intro to MIPS Assembly](labs/lab03.html)                             |  1 week from date assigned  <!-- lab 3 -->
+Week of Feb 19 |  [Branching and Conditional Assembly](labs/lab04.html)                 |  2 weeks from date assigned  <!-- lab 4 -->
 Week of Feb 26 |  **NO LAB - Winter Break**                                             |
-Week of Mar 5  |  [MIPS Procedures](labs/lab05.html)                                    | <!-- lab 5 -->
-Week of Mar 12 |                                                                        | <!-- lab 6 -->
-Week of Mar 19 |                                                                        | <!-- lab 7 -->
+Week of Mar 5  |  [MIPS Procedures](labs/lab05.html)                                    |  2 weeks from date assigned  <!-- lab 5 -->
+Week of Mar 12 |  [More MIPS Procedures](labs/lab06.html)                               |  2 weeks from date assigned  <!-- lab 6 -->
+Week of Mar 19 |  (continue work on Lab06)                                              | 
 Week of Mar 26 |  **NO LAB - Spring Vacation**                                          |
-Week of Apr 2  |                                                                        | <!-- lab 8 -->
-Week of Apr 9  |                                                                        | <!-- lab 9 -->
-Week of Apr 16 |                                                                        | <!-- lab 10 -->
-Week of Apr 23 |                                                                        | <!-- lab 11 -->
+Week of Apr 2  |                                                                        | <!-- lab 7 -->
+Week of Apr 9  |                                                                        | <!-- lab 8 -->
+Week of Apr 16 |                                                                        | <!-- lab 9 -->
+Week of Apr 23 |                                                                        | <!-- lab 10 -->
 Week of Apr 30 |  **NO LAB - Last Week of Classes**                                     |
 
 
