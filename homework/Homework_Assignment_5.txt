@@ -30,6 +30,8 @@ These exercises are all from section 3.12 of your zyBook
 
 3.18   (0 - 3 points) ** treat 6-bit values as octal
 3.19   (0 - 3 points) ** treat 6-bit values as octal
+  HINT: start each iteration by shifting the entire 
+        64-bit Remainder register left 1 bit
 
 3.22   (0 - 3 points)
 3.23   (0 - 3 points)
