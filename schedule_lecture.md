@@ -38,7 +38,7 @@ Tue, Mar 13    |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_C
 Thur, Mar 15   |  [Arithmetic for Computers (continued)](lectures/lecture11_Arithmetic_for_Computers.pdf)                         |  Assign #11 §§ 3.4 - 3.5          |  <!-- § 3.5 maybe do some float examples in 2018 if no snow day! -->
  | | |
 Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  
-Thur, Mar 22   |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  <!-- [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 4, 2017 -->
+Thur, Mar 22   |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Mar 27, 2018 -->
  | | |
 Tue, Mar 27    |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  Assign #14 § 4.5                 |  
 Thur, Mar 29   |  **NO CLASS - Spring Break**                                                                                     |                                   |  <!-- Spring Break -->  
