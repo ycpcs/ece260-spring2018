@@ -37,22 +37,22 @@ Thur, Mar 8    |  **EXAM #1**                                                   
 Tue, Mar 13    |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_Computers.pdf)                                     |  Assign #10 §§ 3.1 - 3.3          |  [Homework #5](homework/Homework_Assignment_5.txt) <br> Due Tue, Mar 20, 2018  
 Thur, Mar 15   |  [Arithmetic for Computers (continued)](lectures/lecture11_Arithmetic_for_Computers.pdf)                         |  Assign #11 §§ 3.4 - 3.5          |  
  | | |
-Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 3, 2018
-Thur, Mar 22   |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  
+Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 5, 2018
+Thur, Mar 22   |  **NO CLASS - SNOW DAY  ❄️ ☃️ ❄️ ☃️ ❄️**                                                                         |                                   |  
  | | |
-Tue, Mar 27    |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  Assign #14 § 4.5                 |  
-Thur, Mar 29   |  **NO CLASS - Spring Break**                                                                                     |                                   |  <!-- Spring Break -->  
+Tue, Mar 27    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  
+Thur, Mar 29   |  **NO CLASS - Spring Vacation**                                                                                  |                                   |  <!-- Spring Vacation -->  
  | | |
-Tue, Apr 3     |  [Pipelined Datapath and Control](lectures/lecture14_Pipelined_Datapath_and_Control.pdf)                         |  Assign #15 § 4.6                 |  <!-- [Homework #7](homework/Homework_Assignment_7.txt) <br> No Submission Required -->
-Thur, Apr 5    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf) |  Assign #16 § 4.7                 |
+Tue, Apr 3     |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  Assign #14 § 4.5                 |
+Thur, Apr 5    |  [Pipelined Datapath and Control](lectures/lecture14_Pipelined_Datapath_and_Control.pdf)                         |  Assign #15 § 4.6                 |  <!-- [Homework #7](homework/Homework_Assignment_7.txt) <br> No Submission Required -->
  | | |
-Tue, Apr 10    |  **EXAM #2**                                                                                                     |                                   | 
-Thur, Apr 12   |  [Memory and Memory Technologies](lectures/lecture16_Memory_and_Memory_Technologies.pdf)                         |                                   |  <!-- § 5.1 - 5.2 --> <!-- [Homework #8](homework/Homework_Assignment_8.txt) <br> Due Thur, Apr 27, 2017 -->
+Tue, Apr 10    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf) |  Assign #16 § 4.7                 | 
+Thur, Apr 12   |  **EXAM #2**                                                                                                     |                                   |
  | | |
-Tue, Apr 17    |  [Basics of Cache Memory](lectures/lecture17_Basics_of_Cache_Memory.pdf)                                         |                                   |  <!-- § 5.3 -->  
-Thur, Apr 19   |  [Basics of Cache Memory (continued)](lectures/lecture17_Basics_of_Cache_Memory.pdf)                             |                                   | <!-- § 5.3 --> <!-- § 6.1 - 6.3 -->                                                                                                                |                                   |  
+Tue, Apr 17    |  [Memory and Memory Technologies](lectures/lecture16_Memory_and_Memory_Technologies.pdf)                         |                                   |  <!-- § 5.1 - 5.2 --> <!-- [Homework #8](homework/Homework_Assignment_8.txt) <br> Due Thur, Apr 27, 2017 -->
+Thur, Apr 19   |  [Basics of Cache Memory](lectures/lecture17_Basics_of_Cache_Memory.pdf)                                         |                                   |  <!-- § 5.3 -->  
  | | |
-Tue, Apr 24    |                                                                                                                  |                                   |  
+Tue, Apr 24    |  [Basics of Cache Memory (continued)](lectures/lecture17_Basics_of_Cache_Memory.pdf)                             |                                   | <!-- § 5.3 --> <!-- § 6.1 - 6.3 -->                                                                                                                |                                   |  
 Thur, Apr 26   |                                                                                                                  |                                   |  
  | | |
 Tue, May 1     |                                                                                                                  |                                   | <!-- § 6.4 - 6.6 -->
