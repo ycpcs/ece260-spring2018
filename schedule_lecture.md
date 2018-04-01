@@ -37,7 +37,7 @@ Thur, Mar 8    |  **EXAM #1**                                                   
 Tue, Mar 13    |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_Computers.pdf)                                     |  Assign #10 §§ 3.1 - 3.3          |  [Homework #5](homework/Homework_Assignment_5.txt) <br> Due Tue, Mar 20, 2018  
 Thur, Mar 15   |  [Arithmetic for Computers (continued)](lectures/lecture11_Arithmetic_for_Computers.pdf)                         |  Assign #11 §§ 3.4 - 3.5          |  
  | | |
-Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Tue, Apr 5, 2018
+Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Thur, Apr 5, 2018
 Thur, Mar 22   |  **NO CLASS - SNOW DAY  ❄️ ☃️ ❄️ ☃️ ❄️**                                                                         |                                   |  
  | | |
 Tue, Mar 27    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  
