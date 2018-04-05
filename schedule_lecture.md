@@ -38,13 +38,13 @@ Tue, Mar 13    |  [Arithmetic for Computers](lectures/lecture11_Arithmetic_for_C
 Thur, Mar 15   |  [Arithmetic for Computers (continued)](lectures/lecture11_Arithmetic_for_Computers.pdf)                         |  Assign #11 §§ 3.4 - 3.5          |  
  | | |
 Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Thur, Apr 5, 2018
-Thur, Mar 22   |  **NO CLASS - SNOW DAY  ❄️ ☃️ ❄️ ☃️ ❄️**                                                                         |                                   |  
+Thur, Mar 22   |  **NO CLASS - SNOW DAY  ❄️ ☃️ ❄️ ☃️ ❄️**                                                                      |                                   |  
  | | |
 Tue, Mar 27    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  
 Thur, Mar 29   |  **NO CLASS - Spring Vacation**                                                                                  |                                   |  <!-- Spring Vacation -->  
  | | |
 Tue, Apr 3     |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  Assign #14 § 4.5                 |
-Thur, Apr 5    |  [Pipelined Datapath and Control](lectures/lecture14_Pipelined_Datapath_and_Control.pdf)                         |  Assign #15 § 4.6                 |  <!-- [Homework #7](homework/Homework_Assignment_7.txt) <br> No Submission Required -->
+Thur, Apr 5    |  [Pipelined Datapath and Control](lectures/lecture14_Pipelined_Datapath_and_Control.pdf)                         |  Assign #15 § 4.6                 |  [Homework #7](homework/Homework_Assignment_7.txt) <br> Due Thur, Apr 12, 2018
  | | |
 Tue, Apr 10    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf) |  Assign #16 § 4.7                 | 
 Thur, Apr 12   |  **EXAM #2**                                                                                                     |                                   |
