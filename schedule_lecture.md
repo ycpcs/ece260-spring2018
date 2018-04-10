@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: ECE260
-title: Schedule
+title: Lecture Schedule
 ---
 
 The following schedule is subject to change.
