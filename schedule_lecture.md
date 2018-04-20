@@ -49,13 +49,13 @@ Thur, Apr 5    |  [Pipelined Datapath and Control](lectures/lecture14_Pipelined_
 Tue, Apr 10    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf) |  Assign #16 § 4.7                 | 
 Thur, Apr 12   |  **EXAM #2**                                                                                                     |                                   |
  | | |
-Tue, Apr 17    |  [Memory and Memory Technologies](lectures/lecture16_Memory_and_Memory_Technologies.pdf)                         |  Assign #17 §§ 5.1 - 5.2          |  [Homework #8](homework/Homework_Assignment_8.txt) <br> Due Tue, May 1, 2018
-Thur, Apr 19   |  [Basics of Cache Memory](lectures/lecture17_Basics_of_Cache_Memory.pdf)                                         |  Assign #18 § 5.3                 |  
+Tue, Apr 17    |  Review of Exam #2
+Thur, Apr 19   |  [Memory and Memory Technologies](lectures/lecture16_Memory_and_Memory_Technologies.pdf)                         |  Assign #17 §§ 5.1 - 5.2          |  [Homework #8](homework/Homework_Assignment_8.txt) <br> Due Tue, May 1, 2018
  | | |
-Tue, Apr 24    |  [Basics of Cache Memory (continued)](lectures/lecture17_Basics_of_Cache_Memory.pdf)                             |                                   |  
-Thur, Apr 26   |                                                                                                                  |                                   | <!-- ??  § 6.1 - 6.3 -->
+Tue, Apr 24    |  [Basics of Cache Memory](lectures/lecture17_Basics_of_Cache_Memory.pdf)                                         |  Assign #18 § 5.3                 |
+Thur, Apr 26   |  [Basics of Cache Memory (continued)](lectures/lecture17_Basics_of_Cache_Memory.pdf)                             |                                   |
  | | |
-Tue, May 1     |                                                                                                                  |                                   | <!-- § 6.4 - 6.6 -->
+Tue, May 1     |  Review of HW#8                                                                                                  |                                   |
 Thur, May 3    |  **EXAM #3**                                                                                                     |                                   |
  | | |
 Tue, May 8     |  **FINAL EXAM FOR SECTION 103 @ 12:45 PM - 2:45 PM**                                                             |                                   |
