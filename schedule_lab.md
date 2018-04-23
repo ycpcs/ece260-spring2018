@@ -23,7 +23,7 @@ Week of Mar 26 |  **NO LAB - Spring Vacation**                                  
 Week of Apr 2  |  [Introduction to Floating-Point Operations](labs/lab07.html)          |  1 week from date assigned  <!-- lab 7 -->
 Week of Apr 9  |  [More Fun with Floats](labs/lab08.html)                               |  1 week from date assigned  <!-- lab 8 -->
 Week of Apr 16 |  [Introduction to ARM Assembly](labs/lab09.html)                       |  1 week from date assigned  <!-- lab 9 -->
-Week of Apr 23 |                                                                        |  <!-- lab 10 -->
+Week of Apr 23 |  [Loop and Function Optimization](labs/lab10.html)                     |  1 week from date assigned  <!-- lab 10 -->
 Week of Apr 30 |  **NO LAB - Last Week of Classes**                                     |
 
 
