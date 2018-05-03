@@ -13,7 +13,7 @@ Additional content will be added as it becomes available throughout the semester
 Tue, Jan 16    |  **NO CLASS**                                                                                                    |                                   |
 Thur, Jan 18   |  [Introduction](lectures/lecture1_introduction.pdf)                                                              |  Assign#1 §§ 1.1 - 1.4            |
 | | |
-Tue, Jan 23    |  [Technologies & Performance](lectures/lecture2_technologies_and_performance.pdf)                                |  Assign#2 §§ 1.5 - 1.11           |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due Tue, Jan 30, 2018
+Tue, Jan 23    |  [Technologies & Performance](lectures/lecture2_technologies_and_performance.pdf)                                |  Assign#2 §§ 1.5 - 1.8            |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due Tue, Jan 30, 2018
 Thur, Jan 25   |  [Data Representation & 2's Complement](lectures/lecture3_data_representation_and_2s_complement.pdf)             |  Assign#3 § 2.4                   |
  | | |
 Tue, Jan 30    |  **NO CLASS - SNOW DAY ❄❄❄❄❄**                                                                                   |                                   |
@@ -40,13 +40,13 @@ Thur, Mar 15   |  [Arithmetic for Computers (continued)](lectures/lecture11_Arit
 Tue, Mar 20    |  [Datapath for a Simplified Processor](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)               |  Assign #12 §§ 4.1 - 4.3          |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due Thur, Apr 5, 2018
 Thur, Mar 22   |  **NO CLASS - SNOW DAY  ❄️ ☃️ ❄️ ☃️ ❄️**                                                                      |                                   |  
  | | |
-Tue, Mar 27    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 §§ 4.3 - 4.4          |  
+Tue, Mar 27    |  [Datapath for a Simplified Processor (continued)](lectures/lecture12_Datapath_for_a_Simplified_Processor.pdf)   |  Assign #13 § 4.4          |  
 Thur, Mar 29   |  **NO CLASS - Spring Vacation**                                                                                  |                                   |  <!-- Spring Vacation -->  
  | | |
 Tue, Apr 3     |  [Pipelining](lectures/lecture13_Pipelining.pdf)                                                                 |  Assign #14 § 4.5                 |
 Thur, Apr 5    |  [Pipelined Datapath and Control](lectures/lecture14_Pipelined_Datapath_and_Control.pdf)                         |  Assign #15 § 4.6                 |  [Homework #7](homework/Homework_Assignment_7.txt) <br> Due Thur, Apr 12, 2018
  | | |
-Tue, Apr 10    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf) |  Assign #16 § 4.7                 | 
+Tue, Apr 10    |  [Data Hazards in a Pipelined Datapath](lectures/lecture15_Data_and_Control_Hazards_in_a_Pipelined_Datapath.pdf) |  Assign #16 §§ 4.7 - 4.8          | 
 Thur, Apr 12   |  **EXAM #2**                                                                                                     |                                   |
  | | |
 Tue, Apr 17    |  Review of Exam #2
